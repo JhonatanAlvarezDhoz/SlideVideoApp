@@ -1,13 +1,13 @@
-# VerticalVideos
+# SlideVideoApp
 
 
 ## Description
 
-VerticalVideos is an app designed to visualize vertical videos locally. The app allows users to watch videos that are stored on the device and provides basic controls, such as play and pause, to easily manage the viewing experience.
+SlideVideoApp is an application designed to view vertically-oriented videos. The app offers basic controls, such as play and pause, providing a viewing experience inspired by TikTok. It is intended exclusively for viewing videos provided in the assets at runtime.
+
 
 ## Features
 
-- Displays vertical videos stored locally on the device.
 - Simple controls for pausing and playing videos.
 - Smooth user interface optimized for mobile screens.
 
@@ -19,17 +19,5 @@ VerticalVideos is an app designed to visualize vertical videos locally. The app 
   <img src="assets/images/screenshot3.png" alt="Screenshot 3" width="30%" />
 </p>
 
-*From left to right: Home screen, Video player, and Settings screen.*
+*Video player*
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
