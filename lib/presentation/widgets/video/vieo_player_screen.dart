@@ -20,6 +20,7 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
   @override
   void initState() {
     super.initState();
+    // operatro in cascade
     controller = VideoPlayerController.asset(widget.videoUrl)
       ..setVolume(10)
       ..setLooping(true)
